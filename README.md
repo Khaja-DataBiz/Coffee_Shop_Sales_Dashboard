@@ -34,10 +34,10 @@ The dashboard highlights:
 
 ## 📝 Project Structure
 This repository contains the following files and folders:
-- `Dashboard/coffee shop sales dashboard.xlsx`: The primary Excel file containing the interactive dashboard.
-- `Documentation/Project_Summary.md`: Detailed documentation with project methodology and insights.
-- `Data/`: (Optional) Folder to hold raw data files, if needed.
-- `images/`: Folder for any relevant images or screenshots of the dashboard.
+- `Dashboard/coffee shop sales dashboard.xlsx`: Excel file containing the interactive dashboard.
+- `Documentation/Project_Summary.md`: Project methodology and insights.
+- `Data/`: Raw data files.
+- `images/`: Screenshots of the dashboard.
 
 ## 📈 Insights and Analysis
 The dashboard reveals key insights such as:
