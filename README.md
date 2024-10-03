@@ -1,7 +1,7 @@
 # Coffee_Shop_Sales_Dashboard
 Excel based Coffee Shop Sales Dashboard - Delivering Actionable Insights
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard?color=green&label=Repo%20Size&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard?color=green&label=Repo%50Size&style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard)
