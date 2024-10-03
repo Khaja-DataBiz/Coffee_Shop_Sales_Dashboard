@@ -1,11 +1,11 @@
 # Coffee_Shop_Sales_Dashboard
 Excel based Coffee Shop Sales Dashboard - Delivering Actionable Insights
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Khaja-DataBiz/Coffee-Shop-Sales-Dashboard?color=green&label=Repo%20Size&style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/Khaja-DataBiz/Coffee-Shop-Sales-Dashboard?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Khaja-DataBiz/Coffee-Shop-Sales-Dashboard?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Khaja-DataBiz/Coffee-Shop-Sales-Dashboard)
-![License](https://img.shields.io/github/license/Khaja-DataBiz/Coffee-Shop-Sales-Dashboard)
+![GitHub repo size](https://img.shields.io/github/repo-size/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard?color=green&label=Repo%20Size&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard)
+![License](https://img.shields.io/github/license/Khaja-DataBiz/Coffee_Shop_Sales_Dashboard)
 ![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-green)
 
 
