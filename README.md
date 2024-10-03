@@ -60,6 +60,8 @@ Potential improvements to the dashboard include:
 ## 👥 Contact Information
 For questions, feedback, or suggestions, please reach out to me via:
 
-**LinkedIn**: <a href="https://linkedin.com" target="_blank">www.linkedin.com/in/khajaanirudhkhan</a>
-**GitHub**: <a href="https://github.com/USERNAME" target="_blank">Khaja-DataBiz</a>
+## 👥 Contact Information
+For questions, feedback, or suggestions, please reach out to me via:
+- **LinkedIn**: <a href="https://www.linkedin.com/in/khajaanirudhkhan" target="_blank">Your LinkedIn Profile</a>
+- **GitHub**: <a href="https://github.com/Khaja-DataBiz" target="_blank">Your GitHub Profile</a>
 
