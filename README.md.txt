@@ -1,3 +1,6 @@
+git rm README.txt
+
+
 # Coffee Shop Sales Dashboard ☕📊
 
 An interactive Excel dashboard analyzing coffee shop sales data, identifying key trends, and providing actionable insights for business growth and decision-making.
