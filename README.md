@@ -57,8 +57,6 @@ Potential improvements to the dashboard include:
 - Incorporating predictive analytics for sales forecasting.
 - Developing an automated data refresh process for live updates.
 
-## 👥 Contact Information
-For questions, feedback, or suggestions, please reach out to me via:
 
 ## 👥 Contact Information
 For questions, feedback, or suggestions, please reach out to me via:
