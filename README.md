@@ -62,6 +62,6 @@ For questions, feedback, or suggestions, please reach out to me via:
 
 ## 👥 Contact Information
 For questions, feedback, or suggestions, please reach out to me via:
-- **LinkedIn**: <a href="https://www.linkedin.com/in/khajaanirudhkhan" target="_blank">www.linkedin.com/in/khajaanirudhkhan</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/khajaanirudhkhan" target="_blank">
 - **GitHub**: <a href="https://github.com/Khaja-DataBiz" target="_blank">Khaja-DataBiz</a>
 
